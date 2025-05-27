@@ -1,12 +1,22 @@
-# React + Vite
+Startup Rush
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Startup Rush** é uma aplicação webfeita com React que permite administrar batalhas entre startups,
+registrando eventos, pontuações e calculando automaticamente o vencedor de cada rodada.
 
-Currently, two official plugins are available:
+##Execução
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+--1. Siga o caminho: \Projeto\startup-react\my-react-app e abra o terminal
+
+--2.Instalar dependências e executar o software
+
+ npm install
+
+ npm i -D react-router-dom
+
+ npm run dev
+
+ E por final, abra o navegador e acesse a página: http://localhost:5173
+
+3. Teste como desejar!
