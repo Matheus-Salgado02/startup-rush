@@ -7,7 +7,7 @@ registrando eventos, pontuações e calculando automaticamente o vencedor de cad
 
 
 
---1. Siga o caminho: \Projeto\startup-react\my-react-app e abra o terminal
+--1. Siga o caminho até a root do arquivo
 
 --2.Instalar dependências e executar o software
 
