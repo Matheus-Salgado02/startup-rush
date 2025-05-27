@@ -1,6 +1,6 @@
 Startup Rush
 
-**Startup Rush** é uma aplicação webfeita com React que permite administrar batalhas entre startups,
+**Startup Rush** é uma aplicação web feita com React que permite administrar batalhas entre startups,
 registrando eventos, pontuações e calculando automaticamente o vencedor de cada rodada.
 
 ##Execução
